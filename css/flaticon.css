@@ -1,0 +1,53 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?0a07ac4689e1008fd81ed79f09bb0573") format("truetype"),
+url("./flaticon.woff?0a07ac4689e1008fd81ed79f09bb0573") format("woff"),
+url("./flaticon.woff2?0a07ac4689e1008fd81ed79f09bb0573") format("woff2"),
+url("./flaticon.eot?0a07ac4689e1008fd81ed79f09bb0573#iefix") format("embedded-opentype"),
+url("./flaticon.svg?0a07ac4689e1008fd81ed79f09bb0573#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-whatsapp:before {
+    content: "\f101";
+}
+.flaticon-instagram:before {
+    content: "\f102";
+}
+.flaticon-twitter:before {
+    content: "\f103";
+}
+.flaticon-linkedin:before {
+    content: "\f104";
+}
+.flaticon-facebook-1:before {
+    content: "\f105";
+}
+.flaticon-user:before {
+    content: "\f106";
+}
+.flaticon-user-1:before {
+    content: "\f107";
+}
+.flaticon-behance-logo:before {
+    content: "\f108";
+}
+.flaticon-email:before {
+    content: "\f109";
+}
+.flaticon-placeholder:before {
+    content: "\f10a";
+}
+.flaticon-world-wide-web:before {
+    content: "\f10b";
+}

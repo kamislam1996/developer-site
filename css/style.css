@@ -128,3 +128,10 @@ small{
     text-align: justify;
     padding: 0% 5%;
 }
+}
+.footer{
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    position: absolute;
+}
