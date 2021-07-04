@@ -42,9 +42,14 @@ nav {
     border: none;
     border-radius: 0px 15px;
 }
+.flaxible-container{
+    display: flex;
+}
+.Dream Big{
+    margin-top: 100px;
+}
 
-
-.top-header {
+.top-header{
     margin-top: 5px;
     display: flex;
     width: 100%;
@@ -61,10 +66,10 @@ h1{
 }
 .half-widht{
     width: 50%;
-    padding: 0% 10%;
+    padding: 0% 5%;
 }
 .half-widht img{
-    width: 83%;
+    width: 63%;
     float: right;
 }
 .bnt{
@@ -79,4 +84,47 @@ h1{
 .top-header{
     background-image: url(/images/mbanner2.jpg);
     background-repeat: no-repeat;    
+}
+small{
+    font-size: 22px;
+}
+.s-2 img{
+    float: left;
+}
+.rose{
+    background-image: url(/images/rose3.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    text-align: justify;
+}
+.expariance{
+    padding: 0% 3%;
+    background-color: #f6f5f6;
+    background-image: url(/images/rose2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.expariance-text{
+    background-image: linear-gradient(tomato, rgb(156, 9, 95));
+    border-radius: 0% 98px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0,3);
+    color: seashell;
+    width: 300px;
+    text-align: center;
+    margin-left: 2%;
+}
+.exp{
+    text-align: center;
+    width: 100%;
+    padding: 0%;
+    background-color: rgb(255, 249, 221);
+    margin: 15px;
+    box-shadow: 3px 5px 13px rgb(170, 167, 167) ;
+    border-radius: 35% 35% 0px 0px;
+}
+.exp p{
+    text-align: justify;
+    padding: 0% 5%;
 }
