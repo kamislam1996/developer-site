@@ -1,7 +1,15 @@
 body{
     font-family: 'Nunito', sans-serif;
     text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    
 }
 .logo{
     font-family: 'Nunito', sans-serif;
+}
+.top-bg{
+    background-image: url(/images/banner1.jpg
 }
